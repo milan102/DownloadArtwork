@@ -2,6 +2,7 @@
 This program allows you to view the first couple of results on Google images to find the pictures you need to download.
 
 The initial screen:
+
 ![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample1.png)
 
 The search results: (after searching for 'cute animals'
@@ -15,6 +16,7 @@ A successful download of an image:
 ![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample3.png)
 
 Notes:
+
 *To use this program, you will need your own developer key a custom search engine id from Google*
 
 *Get your developer key here: https://console.developers.google.com/projectselector/apis/credentials
