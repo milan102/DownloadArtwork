@@ -18,7 +18,7 @@ A successful download of an image:
 
 Notes:
 
-*To use this program, you will need your own developer key a custom search engine id from Google*
+*To use this program, you will need your own developer key and a custom search engine id from Google*
 
 *Get your developer key here: https://console.developers.google.com/projectselector/apis/credentials
 
