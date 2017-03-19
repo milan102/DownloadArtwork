@@ -21,5 +21,6 @@ def download_image(event, url):
     # Retrieves image for download, throws exception as a message box if an error is found
     try:
         urllib.request.urlretrieve(url, final_file_name)
+        tkinter.messagebox._show('SUCCESS', complete_filename + '\nhas been downloaded to your desktop.')
     except Exception as e:
         tkinter.messagebox.showerror('ERROR', str(e) + '\n\nPick a different image.')
