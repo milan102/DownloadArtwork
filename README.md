@@ -20,6 +20,6 @@ Notes:
 
 *To use this program, you will need your own developer key and a custom search engine id from Google*
 
-*Get your developer key here: https://console.developers.google.com/projectselector/apis/credentials
+*Get your developer key here: https://console.developers.google.com/projectselector/apis/credentials*
 
 *Get your search engine id here: https://cse.google.com/cse/all*
