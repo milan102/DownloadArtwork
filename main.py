@@ -92,6 +92,7 @@ def getText():
 def clear_text_box(event, text):
     text.set("")
 
+# Infinite loop that allows the search box GUI to keep appearing over and over again, until it is closed
 while True:
     master = Tk()
 
