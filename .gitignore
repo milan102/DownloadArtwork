@@ -1,0 +1,4 @@
+.idea/DownloadArtwork.iml
+*.xml
+__pycache__/main.cpython-35.pyc
+*.pyc
