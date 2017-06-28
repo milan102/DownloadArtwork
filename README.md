@@ -3,10 +3,10 @@ This program allows you to view the first couple of results on Google images to 
 
 The initial screen:
 
-![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample1.png)
+![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample%20images/sample1.png)
 
 The search results: (after searching for 'cute animals')
-![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample2.png)
+![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample%20images/sample2.png)
 
 ## Instructions:
 1) On the initial screen, type in your search query and click the "Search" button
@@ -14,7 +14,7 @@ The search results: (after searching for 'cute animals')
 
 A successful download of an image:
 
-![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample3.png)
+![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample%20images/sample3.png)
 
 ## Notes:
 
