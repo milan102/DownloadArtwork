@@ -1,20 +1,16 @@
 # DownloadArtwork
 This program allows you to view the first couple of results on Google images to find the pictures you need to download.
 
-The initial screen:
 
-![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample%20images/sample1.png)
+## Preview:
 
-The search results: (after searching for 'cute animals')
-![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample%20images/sample2.png)
+![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/preview.gif)
+
 
 ## Instructions
 1) On the initial screen, type in your search query and click the "Search" button
-2) The top 8 results from Google Images will display, simply click on the picture you wish to download for it to appear on your desktop
+2) The top 8 results from Google Images will display, simply click on the picture you wish to download onto your desktop
 
-A successful download of an image:
-
-![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/sample%20images/sample3.png)
 
 ## Notes
 
