@@ -4,7 +4,7 @@ Allows you to view the first couple of results on Google images to find the pict
 
 ## Preview:
 
-![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/preview.gif)
+![alt tag](https://github.com/milan102/DownloadArtwork/blob/master/preview/artworkdemo.gif)
 
 
 ## Instructions
